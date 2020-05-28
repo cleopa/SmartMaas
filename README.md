@@ -6,3 +6,4 @@ Hier werden die Schnittstellen von neuen im Projekt durch die Partner entwickelt
 - Fraunhofer IESE
 - regio iT GmbH (Better Mobility GmbH)
 - Deutsches Forschungszentrum für Künstliche Intelligenz
+- Cleopa GmbH
