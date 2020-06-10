@@ -7,3 +7,5 @@ Hier werden die Schnittstellen von neuen im Projekt durch die Partner entwickelt
 - regio iT GmbH (Better Mobility GmbH)
 - Deutsches Forschungszentrum für Künstliche Intelligenz
 - Cleopa GmbH
+
+In einem ersten Schritt wird die Struktur für die Service-Description vorgestellt.
