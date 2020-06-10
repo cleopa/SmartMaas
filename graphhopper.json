@@ -1,0 +1,15 @@
+{
+    "status":    "preliminary",
+    "URI Endpoint": "https://graphhopper.com/api/1/route",
+    "Method": "GET",
+    "Discovery Support": "openAPI",
+    "OpenApi JSON": "https://docs.graphhopper.com/openapi.json",
+    "Schnittstellenbeschreibung": "@param key @param points [latitude,longitude ] @param vehicle (car, bike, foot, hike, mtb, racingbike, scooter, truck, small truck @return paths (array of objects) @return info",
+    "Beispiel": "https://graphhopper.com/api/1/route?key=[YOUR_KEY]&elevation=false&points=-0.087891,51.534377,-0.090637,51.467697&vehicle=car",
+    "Servicetyp": "Routing",
+    "Functionality": "Erlaubt eine Routing nach Eingabe von Koordinaten",
+    "Modality(Verkehrsmittel)": ["car","bicycle", "scooter", "walking"],
+    "Systemarchitektur/Technologie(ggf. auch am Fahrzeug)": "HTTP socket",
+    "Geschäftsmodell (Beteiligte, Einnahmen, Ausgaben)": "Freemium"
+}
+
